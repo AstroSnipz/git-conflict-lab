@@ -1,6 +1,6 @@
 from utils import greet
-from config import APP_NAME
+from config import APP_NAME, VERSION
 
-print("Starting MAIN VERSION", APP_NAME)
+print("Running Feature Version", APP_NAME, VERSION)
 greet()
 print("Main branch execution")
