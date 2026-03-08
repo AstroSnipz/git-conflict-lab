@@ -1,2 +1,3 @@
-APP_NAME = "Conflict Demo App"
-VERSION = "1.0"
+APP_NAME = "Conflict Demo"
+VERSION = "2.0"
+DEBUG = True
