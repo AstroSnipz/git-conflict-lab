@@ -1,5 +1,5 @@
 from utils import greet
-from config import APP_NAME
+from config import APP_NAME, VERSION
 
-print("Running", APP_NAME)
+print("Running Feature Version", APP_NAME, VERSION)
 greet()
